@@ -1,3 +1,8 @@
+
+
+
+
+
 #This problem invles 4 loops to since we have to check condition of inversion 
 test = int(input())
 #Fetching Input for number of test cases 
