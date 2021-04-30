@@ -1,0 +1,3 @@
+str_inp="hello world"
+inp_list=str_inp.split(" ")
+print(inp_list[1]+" " +inp_list[0])
